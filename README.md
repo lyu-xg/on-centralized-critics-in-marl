@@ -1,1 +1,1 @@
-# on-centralized-critics-in-marl
+# On Centralized Critics in Multi-Agent Reinforcement Learning
