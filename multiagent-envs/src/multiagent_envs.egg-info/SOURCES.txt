@@ -1,0 +1,5 @@
+setup.py
+src/multiagent_envs.egg-info/PKG-INFO
+src/multiagent_envs.egg-info/SOURCES.txt
+src/multiagent_envs.egg-info/dependency_links.txt
+src/multiagent_envs.egg-info/top_level.txt

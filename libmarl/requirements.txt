@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+pymongo
+pandas
+gym
+sklearn
+sacred
+opencv-python
